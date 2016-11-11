@@ -1,0 +1,48 @@
+/*-------GENERAL------------*/
+
+
+/*----------------------------HEADER--------*/
+header {
+    background: linear-gradient(to right)
+}
+header .img-responsive{
+    opacity: 0.7;
+    height: 50px;
+    width: 360px;
+    margin: px
+    
+}
+header span{
+    color: #d8dfe5;
+    position: absolute;
+    padding: 20px 70px;
+    font-size: 11px;
+    font-family: sans-serif;
+}
+
+.search-box input{
+   padding: 7px;
+   font-size: 15px;
+   margin: 5px;
+}
+.search-box .fa-search{
+    margin-left: -100px;
+    margin-top: -3px;
+}
+
+/*------------------------------ SECTION HERO ------------------*/
+.hero .banner{
+    background: #333 url(../img/banner.jpg) no-repeat;
+    background-size: contain;
+}
+
+.movie-info{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.estrenos img{
+    width: 100%;
+}
+.cartelera img{
+    width: 100%;
+}
